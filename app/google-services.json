@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "424332209275",
+    "firebase_url": "https://trabalho-mateus.firebaseio.com",
+    "project_id": "trabalho-mateus",
+    "storage_bucket": "trabalho-mateus.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:424332209275:android:8d845952af036b5ff6c6de",
+        "android_client_info": {
+          "package_name": "com.mateus.trabalho"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "424332209275-9h1l3gev57c4nn1i5i9mr60f3o41li7u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4zqf6-6H6i_i4-Ic0FogLRlBSx4SLgX4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "424332209275-9h1l3gev57c4nn1i5i9mr60f3o41li7u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
